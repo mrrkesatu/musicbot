@@ -18,32 +18,32 @@
     ],
     "env": {
       "API_ID": {
-        "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "description": "8756802",
+        "value": "8756802",
         "required": true
       },
       "API_HASH": {
-        "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "description": "1db6f99327834db41dcd6ffe9b9b691b",
+        "value": "1db6f99327834db41dcd6ffe9b9b691b",
         "required": true
       },
       "BOT_TOKEN": {
-        "description": "A Bot's token from Botfather",
-        "value": "",
+        "description": "8173911154:AAF07X7fUbtrDtuS2pcVTsi_c8mJZ3Bqosc",
+        "value": "8173911154:AAF07X7fUbtrDtuS2pcVTsi_c8mJZ3Bqosc",
         "required": true
       },
       "OWNER_ID": {
-        "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "5303133436",
+        "description": "1387137195",
+        "value": "1387137195",
         "required": true
       },        
       "MONGO_DB_URI": {
-        "description": "Mongo DB URL",
-        "value": "",
+        "description": "mongodb+srv://reyy:<db_password>@cluster0.ufwcv3t.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+        "value": "mongodb+srv://reyy:<db_password>@cluster0.ufwcv3t.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
         "required": true
       },
       "MUSIC_BOT_NAME": {
-        "description": "A name for your Music Bot.",
+        "description": "Zona Music ID",
         "value": "",
         "required": true
       },
@@ -69,7 +69,7 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Use only Group. Please don't use Channel ID.",
-        "value": "",
+        "value": "-1002824733429",
         "required": true
       },
       "COOKIES": {
