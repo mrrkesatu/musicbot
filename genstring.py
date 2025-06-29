@@ -16,6 +16,6 @@ async def generate_and_send_string_session(api_id, api_hash):
 
 
 if __name__ == "__main__":
-    api_id = int(input("Enter your API ID: "))
-    api_hash = input("Enter your API Hash: ")
+    api_id = int(input("8756802"))
+    api_hash = input("1db6f99327834db41dcd6ffe9b9b691b")
     asyncio.run(generate_and_send_string_session(api_id, api_hash))
